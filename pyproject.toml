@@ -2,11 +2,12 @@
 name = "digits-classification-nn"
 version = "0.1.0"
 description = ""
-authors = ["Lovisa Grönros <lovisa.gronros@gmail.com>"]
+authors = ["Lovisa Grönros"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pandas = "^2.2.2"
 
 
 [build-system]
