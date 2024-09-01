@@ -16,3 +16,5 @@ where x is the input data, f(x) the neural network we are going to build and y i
 
 input data: MNIST, an array of numbers, where each number represents a certain pixel intensity
 output data: {0,1,2,3,4,5,6,7,8,9}
+
+note: source https://www.youtube.com/watch?v=BfCPxoYCgo0
