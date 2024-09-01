@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "digits-classification-nn"
+version = "0.1.0"
+description = ""
+authors = ["Lovisa Grönros"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+keras = "^3.5.0"
+matplotlib = "^3.9.2"
+scikit-learn = "^1.5.1"
+seaborn = "^0.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
